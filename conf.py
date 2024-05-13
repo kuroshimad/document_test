@@ -4,7 +4,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'MolStrucClassifier'
-copyright = '2020-{}, Daisuke Kuroshima, Jutta Rogal'.format(date.today().year)
+copyright = '2020-{}, Daisuke Kuroshima, Jutta Rogal'
 author = 'Daisuke Kuroshima, Jutta Rogal'
 
 
